@@ -1,65 +1,65 @@
-07:12:17,723 [pool-1-thread-3] INFO  you_name_is_yu.threadlocal.biz.SampleBiz - :＝＝＝1回目 開始＝＝＝
-07:12:17,723 [pool-1-thread-1] INFO  you_name_is_yu.threadlocal.biz.SampleBiz - :＝＝＝1回目 開始＝＝＝
-07:12:17,723 [pool-1-thread-2] INFO  you_name_is_yu.threadlocal.biz.SampleBiz - :＝＝＝1回目 開始＝＝＝
-07:12:18,033 [pool-1-thread-2] INFO  you_name_is_yu.threadlocal.biz.SampleBiz - :[pool-1-thread-2]ADto [id=101, name=test]
-07:12:18,033 [pool-1-thread-2] INFO  you_name_is_yu.threadlocal.biz.SampleBiz - :[pool-1-thread-2]ADto [id=101+1, name=test1]
-07:12:18,034 [pool-1-thread-2] INFO  you_name_is_yu.threadlocal.biz.SampleBiz - :[pool-1-thread-2]ADto [id=101+2, name=test2]
-07:12:18,035 [pool-1-thread-2] INFO  you_name_is_yu.threadlocal.biz.SampleBiz - :306ms
-07:12:18,036 [pool-1-thread-2] INFO  you_name_is_yu.threadlocal.biz.SampleBiz - :＝＝＝2回目 開始＝＝＝
-07:12:18,036 [pool-1-thread-2] INFO  you_name_is_yu.threadlocal.vo.where.AWhereVo - :[pool-1-thread-2] 同じ！！
-07:12:18,036 [pool-1-thread-2] INFO  you_name_is_yu.threadlocal.util.ThreadLocalUtil - :あったよ
-07:12:18,037 [pool-1-thread-2] INFO  you_name_is_yu.threadlocal.vo.where.AWhereVo - :[pool-1-thread-2] 同じ！！
-07:12:18,037 [pool-1-thread-2] INFO  you_name_is_yu.threadlocal.biz.SampleBiz - :[pool-1-thread-2]ADto [id=101, name=test]
-07:12:18,037 [pool-1-thread-2] INFO  you_name_is_yu.threadlocal.biz.SampleBiz - :[pool-1-thread-2]ADto [id=101+1, name=test1]
-07:12:18,037 [pool-1-thread-2] INFO  you_name_is_yu.threadlocal.biz.SampleBiz - :[pool-1-thread-2]ADto [id=101+2, name=test2]
-07:12:18,038 [pool-1-thread-2] INFO  you_name_is_yu.threadlocal.biz.SampleBiz - :2ms
-07:12:18,039 [pool-1-thread-2] INFO  you_name_is_yu.threadlocal.biz.SampleBiz - :＝＝＝3回目 開始＝＝＝
-07:12:18,039 [pool-1-thread-2] INFO  you_name_is_yu.threadlocal.vo.where.AWhereVo - :[pool-1-thread-2] 同じ！！
-07:12:18,039 [pool-1-thread-2] INFO  you_name_is_yu.threadlocal.util.ThreadLocalUtil - :あったよ
-07:12:18,040 [pool-1-thread-2] INFO  you_name_is_yu.threadlocal.vo.where.AWhereVo - :[pool-1-thread-2] 同じ！！
-07:12:18,040 [pool-1-thread-2] INFO  you_name_is_yu.threadlocal.biz.SampleBiz - :[pool-1-thread-2]ADto [id=101, name=test]
-07:12:18,040 [pool-1-thread-2] INFO  you_name_is_yu.threadlocal.biz.SampleBiz - :[pool-1-thread-2]ADto [id=101+1, name=test1]
-07:12:18,040 [pool-1-thread-2] INFO  you_name_is_yu.threadlocal.biz.SampleBiz - :[pool-1-thread-2]ADto [id=101+2, name=test2]
-07:12:18,041 [pool-1-thread-2] INFO  you_name_is_yu.threadlocal.biz.SampleBiz - :2ms
-07:12:18,231 [pool-1-thread-3] INFO  you_name_is_yu.threadlocal.biz.SampleBiz - :[pool-1-thread-3]ADto [id=101, name=test]
-07:12:18,231 [pool-1-thread-3] INFO  you_name_is_yu.threadlocal.biz.SampleBiz - :[pool-1-thread-3]ADto [id=101+1, name=test1]
-07:12:18,231 [pool-1-thread-3] INFO  you_name_is_yu.threadlocal.biz.SampleBiz - :[pool-1-thread-3]ADto [id=101+2, name=test2]
-07:12:18,232 [pool-1-thread-3] INFO  you_name_is_yu.threadlocal.biz.SampleBiz - :504ms
-07:12:18,232 [pool-1-thread-3] INFO  you_name_is_yu.threadlocal.biz.SampleBiz - :＝＝＝2回目 開始＝＝＝
-07:12:18,232 [pool-1-thread-3] INFO  you_name_is_yu.threadlocal.vo.where.AWhereVo - :[pool-1-thread-3] 同じ！！
-07:12:18,232 [pool-1-thread-3] INFO  you_name_is_yu.threadlocal.util.ThreadLocalUtil - :あったよ
-07:12:18,233 [pool-1-thread-3] INFO  you_name_is_yu.threadlocal.vo.where.AWhereVo - :[pool-1-thread-3] 同じ！！
-07:12:18,233 [pool-1-thread-3] INFO  you_name_is_yu.threadlocal.biz.SampleBiz - :[pool-1-thread-3]ADto [id=101, name=test]
-07:12:18,233 [pool-1-thread-3] INFO  you_name_is_yu.threadlocal.biz.SampleBiz - :[pool-1-thread-3]ADto [id=101+1, name=test1]
-07:12:18,233 [pool-1-thread-3] INFO  you_name_is_yu.threadlocal.biz.SampleBiz - :[pool-1-thread-3]ADto [id=101+2, name=test2]
-07:12:18,234 [pool-1-thread-3] INFO  you_name_is_yu.threadlocal.biz.SampleBiz - :2ms
-07:12:18,234 [pool-1-thread-3] INFO  you_name_is_yu.threadlocal.biz.SampleBiz - :＝＝＝3回目 開始＝＝＝
-07:12:18,234 [pool-1-thread-3] INFO  you_name_is_yu.threadlocal.vo.where.AWhereVo - :[pool-1-thread-3] 同じ！！
-07:12:18,235 [pool-1-thread-3] INFO  you_name_is_yu.threadlocal.util.ThreadLocalUtil - :あったよ
-07:12:18,235 [pool-1-thread-3] INFO  you_name_is_yu.threadlocal.vo.where.AWhereVo - :[pool-1-thread-3] 同じ！！
-07:12:18,235 [pool-1-thread-3] INFO  you_name_is_yu.threadlocal.biz.SampleBiz - :[pool-1-thread-3]ADto [id=101, name=test]
-07:12:18,235 [pool-1-thread-3] INFO  you_name_is_yu.threadlocal.biz.SampleBiz - :[pool-1-thread-3]ADto [id=101+1, name=test1]
-07:12:18,236 [pool-1-thread-3] INFO  you_name_is_yu.threadlocal.biz.SampleBiz - :[pool-1-thread-3]ADto [id=101+2, name=test2]
-07:12:18,236 [pool-1-thread-3] INFO  you_name_is_yu.threadlocal.biz.SampleBiz - :2ms
-07:12:18,431 [pool-1-thread-1] INFO  you_name_is_yu.threadlocal.biz.SampleBiz - :[pool-1-thread-1]ADto [id=101, name=test]
-07:12:18,431 [pool-1-thread-1] INFO  you_name_is_yu.threadlocal.biz.SampleBiz - :[pool-1-thread-1]ADto [id=101+1, name=test1]
-07:12:18,432 [pool-1-thread-1] INFO  you_name_is_yu.threadlocal.biz.SampleBiz - :[pool-1-thread-1]ADto [id=101+2, name=test2]
-07:12:18,432 [pool-1-thread-1] INFO  you_name_is_yu.threadlocal.biz.SampleBiz - :704ms
-07:12:18,432 [pool-1-thread-1] INFO  you_name_is_yu.threadlocal.biz.SampleBiz - :＝＝＝2回目 開始＝＝＝
-07:12:18,433 [pool-1-thread-1] INFO  you_name_is_yu.threadlocal.vo.where.AWhereVo - :[pool-1-thread-1] 同じ！！
-07:12:18,433 [pool-1-thread-1] INFO  you_name_is_yu.threadlocal.util.ThreadLocalUtil - :あったよ
-07:12:18,434 [pool-1-thread-1] INFO  you_name_is_yu.threadlocal.vo.where.AWhereVo - :[pool-1-thread-1] 同じ！！
-07:12:18,434 [pool-1-thread-1] INFO  you_name_is_yu.threadlocal.biz.SampleBiz - :[pool-1-thread-1]ADto [id=101, name=test]
-07:12:18,434 [pool-1-thread-1] INFO  you_name_is_yu.threadlocal.biz.SampleBiz - :[pool-1-thread-1]ADto [id=101+1, name=test1]
-07:12:18,435 [pool-1-thread-1] INFO  you_name_is_yu.threadlocal.biz.SampleBiz - :[pool-1-thread-1]ADto [id=101+2, name=test2]
-07:12:18,435 [pool-1-thread-1] INFO  you_name_is_yu.threadlocal.biz.SampleBiz - :2ms
-07:12:18,436 [pool-1-thread-1] INFO  you_name_is_yu.threadlocal.biz.SampleBiz - :＝＝＝3回目 開始＝＝＝
-07:12:18,436 [pool-1-thread-1] INFO  you_name_is_yu.threadlocal.vo.where.AWhereVo - :[pool-1-thread-1] 同じ！！
-07:12:18,437 [pool-1-thread-1] INFO  you_name_is_yu.threadlocal.util.ThreadLocalUtil - :あったよ
-07:12:18,437 [pool-1-thread-1] INFO  you_name_is_yu.threadlocal.vo.where.AWhereVo - :[pool-1-thread-1] 同じ！！
-07:12:18,437 [pool-1-thread-1] INFO  you_name_is_yu.threadlocal.biz.SampleBiz - :[pool-1-thread-1]ADto [id=101, name=test]
-07:12:18,437 [pool-1-thread-1] INFO  you_name_is_yu.threadlocal.biz.SampleBiz - :[pool-1-thread-1]ADto [id=101+1, name=test1]
-07:12:18,438 [pool-1-thread-1] INFO  you_name_is_yu.threadlocal.biz.SampleBiz - :[pool-1-thread-1]ADto [id=101+2, name=test2]
-07:12:18,438 [pool-1-thread-1] INFO  you_name_is_yu.threadlocal.biz.SampleBiz - :2ms
-07:12:18,439 [main] INFO  you_name_is_yu.threadlocal.Main - :■□■□■□合計実行時間（ms）■□■□■□
-07:12:18,440 [main] INFO  you_name_is_yu.threadlocal.Main - :737ms
+2018-19-29 08:19:11,747 [pool-1-thread-2] INFO  you_name_is_yu.threadlocal.biz.SampleBiz :＝＝＝1回目 開始＝＝＝
+2018-19-29 08:19:11,751 [pool-1-thread-1] INFO  you_name_is_yu.threadlocal.biz.SampleBiz :＝＝＝1回目 開始＝＝＝
+2018-19-29 08:19:11,751 [pool-1-thread-3] INFO  you_name_is_yu.threadlocal.biz.SampleBiz :＝＝＝1回目 開始＝＝＝
+2018-19-29 08:19:12,061 [pool-1-thread-2] INFO  you_name_is_yu.threadlocal.biz.SampleBiz :[pool-1-thread-2]ADto [id=101, name=test]
+2018-19-29 08:19:12,062 [pool-1-thread-2] INFO  you_name_is_yu.threadlocal.biz.SampleBiz :[pool-1-thread-2]ADto [id=101+1, name=test1]
+2018-19-29 08:19:12,062 [pool-1-thread-2] INFO  you_name_is_yu.threadlocal.biz.SampleBiz :[pool-1-thread-2]ADto [id=101+2, name=test2]
+2018-19-29 08:19:12,064 [pool-1-thread-2] INFO  you_name_is_yu.threadlocal.biz.SampleBiz :310ms
+2018-19-29 08:19:12,064 [pool-1-thread-2] INFO  you_name_is_yu.threadlocal.biz.SampleBiz :＝＝＝2回目 開始＝＝＝
+2018-19-29 08:19:12,065 [pool-1-thread-2] INFO  you_name_is_yu.threadlocal.vo.where.AWhereVo :[pool-1-thread-2] 同じ！！
+2018-19-29 08:19:12,065 [pool-1-thread-2] INFO  you_name_is_yu.threadlocal.util.ThreadLocalUtil :あったよ
+2018-19-29 08:19:12,066 [pool-1-thread-2] INFO  you_name_is_yu.threadlocal.vo.where.AWhereVo :[pool-1-thread-2] 同じ！！
+2018-19-29 08:19:12,066 [pool-1-thread-2] INFO  you_name_is_yu.threadlocal.biz.SampleBiz :[pool-1-thread-2]ADto [id=101, name=test]
+2018-19-29 08:19:12,066 [pool-1-thread-2] INFO  you_name_is_yu.threadlocal.biz.SampleBiz :[pool-1-thread-2]ADto [id=101+1, name=test1]
+2018-19-29 08:19:12,067 [pool-1-thread-2] INFO  you_name_is_yu.threadlocal.biz.SampleBiz :[pool-1-thread-2]ADto [id=101+2, name=test2]
+2018-19-29 08:19:12,067 [pool-1-thread-2] INFO  you_name_is_yu.threadlocal.biz.SampleBiz :2ms
+2018-19-29 08:19:12,069 [pool-1-thread-2] INFO  you_name_is_yu.threadlocal.biz.SampleBiz :＝＝＝3回目 開始＝＝＝
+2018-19-29 08:19:12,070 [pool-1-thread-2] INFO  you_name_is_yu.threadlocal.vo.where.AWhereVo :[pool-1-thread-2] 同じ！！
+2018-19-29 08:19:12,070 [pool-1-thread-2] INFO  you_name_is_yu.threadlocal.util.ThreadLocalUtil :あったよ
+2018-19-29 08:19:12,070 [pool-1-thread-2] INFO  you_name_is_yu.threadlocal.vo.where.AWhereVo :[pool-1-thread-2] 同じ！！
+2018-19-29 08:19:12,071 [pool-1-thread-2] INFO  you_name_is_yu.threadlocal.biz.SampleBiz :[pool-1-thread-2]ADto [id=101, name=test]
+2018-19-29 08:19:12,071 [pool-1-thread-2] INFO  you_name_is_yu.threadlocal.biz.SampleBiz :[pool-1-thread-2]ADto [id=101+1, name=test1]
+2018-19-29 08:19:12,071 [pool-1-thread-2] INFO  you_name_is_yu.threadlocal.biz.SampleBiz :[pool-1-thread-2]ADto [id=101+2, name=test2]
+2018-19-29 08:19:12,072 [pool-1-thread-2] INFO  you_name_is_yu.threadlocal.biz.SampleBiz :2ms
+2018-19-29 08:19:12,258 [pool-1-thread-3] INFO  you_name_is_yu.threadlocal.biz.SampleBiz :[pool-1-thread-3]ADto [id=101, name=test]
+2018-19-29 08:19:12,259 [pool-1-thread-3] INFO  you_name_is_yu.threadlocal.biz.SampleBiz :[pool-1-thread-3]ADto [id=101+1, name=test1]
+2018-19-29 08:19:12,260 [pool-1-thread-3] INFO  you_name_is_yu.threadlocal.biz.SampleBiz :[pool-1-thread-3]ADto [id=101+2, name=test2]
+2018-19-29 08:19:12,260 [pool-1-thread-3] INFO  you_name_is_yu.threadlocal.biz.SampleBiz :503ms
+2018-19-29 08:19:12,261 [pool-1-thread-3] INFO  you_name_is_yu.threadlocal.biz.SampleBiz :＝＝＝2回目 開始＝＝＝
+2018-19-29 08:19:12,261 [pool-1-thread-3] INFO  you_name_is_yu.threadlocal.vo.where.AWhereVo :[pool-1-thread-3] 同じ！！
+2018-19-29 08:19:12,262 [pool-1-thread-3] INFO  you_name_is_yu.threadlocal.util.ThreadLocalUtil :あったよ
+2018-19-29 08:19:12,262 [pool-1-thread-3] INFO  you_name_is_yu.threadlocal.vo.where.AWhereVo :[pool-1-thread-3] 同じ！！
+2018-19-29 08:19:12,262 [pool-1-thread-3] INFO  you_name_is_yu.threadlocal.biz.SampleBiz :[pool-1-thread-3]ADto [id=101, name=test]
+2018-19-29 08:19:12,263 [pool-1-thread-3] INFO  you_name_is_yu.threadlocal.biz.SampleBiz :[pool-1-thread-3]ADto [id=101+1, name=test1]
+2018-19-29 08:19:12,263 [pool-1-thread-3] INFO  you_name_is_yu.threadlocal.biz.SampleBiz :[pool-1-thread-3]ADto [id=101+2, name=test2]
+2018-19-29 08:19:12,264 [pool-1-thread-3] INFO  you_name_is_yu.threadlocal.biz.SampleBiz :3ms
+2018-19-29 08:19:12,264 [pool-1-thread-3] INFO  you_name_is_yu.threadlocal.biz.SampleBiz :＝＝＝3回目 開始＝＝＝
+2018-19-29 08:19:12,264 [pool-1-thread-3] INFO  you_name_is_yu.threadlocal.vo.where.AWhereVo :[pool-1-thread-3] 同じ！！
+2018-19-29 08:19:12,265 [pool-1-thread-3] INFO  you_name_is_yu.threadlocal.util.ThreadLocalUtil :あったよ
+2018-19-29 08:19:12,265 [pool-1-thread-3] INFO  you_name_is_yu.threadlocal.vo.where.AWhereVo :[pool-1-thread-3] 同じ！！
+2018-19-29 08:19:12,265 [pool-1-thread-3] INFO  you_name_is_yu.threadlocal.biz.SampleBiz :[pool-1-thread-3]ADto [id=101, name=test]
+2018-19-29 08:19:12,266 [pool-1-thread-3] INFO  you_name_is_yu.threadlocal.biz.SampleBiz :[pool-1-thread-3]ADto [id=101+1, name=test1]
+2018-19-29 08:19:12,267 [pool-1-thread-3] INFO  you_name_is_yu.threadlocal.biz.SampleBiz :[pool-1-thread-3]ADto [id=101+2, name=test2]
+2018-19-29 08:19:12,267 [pool-1-thread-3] INFO  you_name_is_yu.threadlocal.biz.SampleBiz :3ms
+2018-19-29 08:19:12,457 [pool-1-thread-1] INFO  you_name_is_yu.threadlocal.biz.SampleBiz :[pool-1-thread-1]ADto [id=101, name=test]
+2018-19-29 08:19:12,461 [pool-1-thread-1] INFO  you_name_is_yu.threadlocal.biz.SampleBiz :[pool-1-thread-1]ADto [id=101+1, name=test1]
+2018-19-29 08:19:12,461 [pool-1-thread-1] INFO  you_name_is_yu.threadlocal.biz.SampleBiz :[pool-1-thread-1]ADto [id=101+2, name=test2]
+2018-19-29 08:19:12,462 [pool-1-thread-1] INFO  you_name_is_yu.threadlocal.biz.SampleBiz :705ms
+2018-19-29 08:19:12,462 [pool-1-thread-1] INFO  you_name_is_yu.threadlocal.biz.SampleBiz :＝＝＝2回目 開始＝＝＝
+2018-19-29 08:19:12,462 [pool-1-thread-1] INFO  you_name_is_yu.threadlocal.vo.where.AWhereVo :[pool-1-thread-1] 同じ！！
+2018-19-29 08:19:12,463 [pool-1-thread-1] INFO  you_name_is_yu.threadlocal.util.ThreadLocalUtil :あったよ
+2018-19-29 08:19:12,463 [pool-1-thread-1] INFO  you_name_is_yu.threadlocal.vo.where.AWhereVo :[pool-1-thread-1] 同じ！！
+2018-19-29 08:19:12,463 [pool-1-thread-1] INFO  you_name_is_yu.threadlocal.biz.SampleBiz :[pool-1-thread-1]ADto [id=101, name=test]
+2018-19-29 08:19:12,464 [pool-1-thread-1] INFO  you_name_is_yu.threadlocal.biz.SampleBiz :[pool-1-thread-1]ADto [id=101+1, name=test1]
+2018-19-29 08:19:12,465 [pool-1-thread-1] INFO  you_name_is_yu.threadlocal.biz.SampleBiz :[pool-1-thread-1]ADto [id=101+2, name=test2]
+2018-19-29 08:19:12,466 [pool-1-thread-1] INFO  you_name_is_yu.threadlocal.biz.SampleBiz :4ms
+2018-19-29 08:19:12,466 [pool-1-thread-1] INFO  you_name_is_yu.threadlocal.biz.SampleBiz :＝＝＝3回目 開始＝＝＝
+2018-19-29 08:19:12,468 [pool-1-thread-1] INFO  you_name_is_yu.threadlocal.vo.where.AWhereVo :[pool-1-thread-1] 同じ！！
+2018-19-29 08:19:12,469 [pool-1-thread-1] INFO  you_name_is_yu.threadlocal.util.ThreadLocalUtil :あったよ
+2018-19-29 08:19:12,471 [pool-1-thread-1] INFO  you_name_is_yu.threadlocal.vo.where.AWhereVo :[pool-1-thread-1] 同じ！！
+2018-19-29 08:19:12,471 [pool-1-thread-1] INFO  you_name_is_yu.threadlocal.biz.SampleBiz :[pool-1-thread-1]ADto [id=101, name=test]
+2018-19-29 08:19:12,472 [pool-1-thread-1] INFO  you_name_is_yu.threadlocal.biz.SampleBiz :[pool-1-thread-1]ADto [id=101+1, name=test1]
+2018-19-29 08:19:12,473 [pool-1-thread-1] INFO  you_name_is_yu.threadlocal.biz.SampleBiz :[pool-1-thread-1]ADto [id=101+2, name=test2]
+2018-19-29 08:19:12,473 [pool-1-thread-1] INFO  you_name_is_yu.threadlocal.biz.SampleBiz :5ms
+2018-19-29 08:19:12,474 [main] INFO  you_name_is_yu.threadlocal.Main :■□■□■□合計実行時間（ms）■□■□■□
+2018-19-29 08:19:12,476 [main] INFO  you_name_is_yu.threadlocal.Main :757ms

@@ -34,6 +34,10 @@ public class Main {
         processes.add(new SampleCallable("jiro", "101", 300, enableThreadLocal));
         processes.add(new SampleCallable("saburo", "101", 500, enableThreadLocal));
 
+        processes.add(new SampleCallable("taro", "102", 1000, enableThreadLocal));
+        processes.add(new SampleCallable("taro", "103", 200, enableThreadLocal));
+        processes.add(new SampleCallable("taro", "104", 900, enableThreadLocal));
+
         // マルチスレッドでの３台同時リクエストを実行
         try {
             threadPool.invokeAll(processes);
